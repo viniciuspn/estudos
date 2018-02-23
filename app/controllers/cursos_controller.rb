@@ -3,7 +3,7 @@ class CursosController < ApplicationController
 
   # GET /cursos
   def index
-    @cursos = Curso.where(name: "ggggg", id: 2)
+    @cursos = Curso.all
 
     render json: @cursos
   end

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  curso: one
+  nota: 9.99
+  starts_at: 2018-02-23
+  ends_at: 2018-02-23
+
+two:
+  client: two
+  curso: two
+  nota: 9.99
+  starts_at: 2018-02-23
+  ends_at: 2018-02-23
